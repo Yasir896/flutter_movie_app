@@ -1,6 +1,6 @@
 # flutter_movie_app
 
-A new Flutter project.
+Flutter project to practice Bloc pattern.
 
 ## Getting Started
 
